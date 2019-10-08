@@ -1,0 +1,11 @@
+# Task 2
+# Identify and display the Ethernet interface characteristics:
+# (a) Identify broadcast address
+# (b) Identify all IP addresses which are part of the same subnet
+
+ifconfig en0 | grep 'broadcast' | cut -d ' ' -f 6
+
+# When you issue the “arp -a”, you’ll get IP-address-to-mac conversion and the allocation type 
+# (whether dynamic or static) of all devices in your network.
+
+arp -a
