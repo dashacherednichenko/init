@@ -4,6 +4,7 @@
 # first find ip slash16.org: $>ping slash16.org
 # when $>whois 54.192.230.31 | grep 'OrgName'
 # or in one row
-# whois $(dig +short slash16.org | head -1) | grep OrgName /- very smart for me =)/
+# whois $(dig +short slash16.org | head -1) | grep OrgName
+# /- very smart for me =)/
 
 Amazon.com, Inc.
