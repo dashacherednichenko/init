@@ -1,2 +1,5 @@
 # Task 12
 # Find the IP that was assigned to you by dhcp server
+# Dynamic Host Configuration Protocol
+
+ifconfig en0 | grep 'inet ' | cut -d ' ' -f 2
