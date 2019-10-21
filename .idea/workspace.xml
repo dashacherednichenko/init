@@ -3,33 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d34c6b55-2a25-432f-b934-d2ee52f060b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/01" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/02" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/03" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/03" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/01" beforeDir="false" afterPath="$PROJECT_DIR$/system/01" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/system/02" beforeDir="false" afterPath="$PROJECT_DIR$/system/02" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/03" beforeDir="false" afterPath="$PROJECT_DIR$/system/03" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/04" beforeDir="false" afterPath="$PROJECT_DIR$/system/04" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/05" beforeDir="false" afterPath="$PROJECT_DIR$/system/05" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/06" beforeDir="false" afterPath="$PROJECT_DIR$/system/06" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/07" beforeDir="false" afterPath="$PROJECT_DIR$/system/07" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/08" beforeDir="false" afterPath="$PROJECT_DIR$/system/08" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/09" beforeDir="false" afterPath="$PROJECT_DIR$/system/09" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/10" beforeDir="false" afterPath="$PROJECT_DIR$/system/10" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/11" beforeDir="false" afterPath="$PROJECT_DIR$/system/11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/12" beforeDir="false" afterPath="$PROJECT_DIR$/system/12" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/13" beforeDir="false" afterPath="$PROJECT_DIR$/system/13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/14" beforeDir="false" afterPath="$PROJECT_DIR$/system/14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/15" beforeDir="false" afterPath="$PROJECT_DIR$/system/15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/16" beforeDir="false" afterPath="$PROJECT_DIR$/system/16" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/17" beforeDir="false" afterPath="$PROJECT_DIR$/system/17" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/18" beforeDir="false" afterPath="$PROJECT_DIR$/system/18" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/19" beforeDir="false" afterPath="$PROJECT_DIR$/system/19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/20" beforeDir="false" afterPath="$PROJECT_DIR$/system/20" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/21" beforeDir="false" afterPath="$PROJECT_DIR$/system/21" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/22" beforeDir="false" afterPath="$PROJECT_DIR$/system/22" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/23" beforeDir="false" afterPath="$PROJECT_DIR$/system/23" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/24" beforeDir="false" afterPath="$PROJECT_DIR$/system/24" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,15 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/system/19">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/20">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,11 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/system/01">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/02">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -151,8 +125,6 @@
         <option value="$PROJECT_DIR$/network/13" />
         <option value="$PROJECT_DIR$/network/14" />
         <option value="$PROJECT_DIR$/network/15" />
-        <option value="$PROJECT_DIR$/system/01" />
-        <option value="$PROJECT_DIR$/system/02" />
         <option value="$PROJECT_DIR$/system/03" />
         <option value="$PROJECT_DIR$/system/04" />
         <option value="$PROJECT_DIR$/system/05" />
@@ -178,6 +150,8 @@
         <option value="$PROJECT_DIR$/scripts/01" />
         <option value="$PROJECT_DIR$/scripts/02" />
         <option value="$PROJECT_DIR$/scripts/03" />
+        <option value="$PROJECT_DIR$/system/01" />
+        <option value="$PROJECT_DIR$/system/02" />
       </list>
     </option>
   </component>
@@ -202,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,7 +203,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,17 +243,19 @@
       <workItem from="1570528960512" duration="3264000" />
       <workItem from="1570537167684" duration="5589000" />
       <workItem from="1570698880678" duration="4470000" />
-      <workItem from="1571648329677" duration="2606000" />
+      <workItem from="1571648329677" duration="3092000" />
+      <workItem from="1571673353169" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15929000" />
+    <option name="totallyTimeSpent" value="16755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="222" y="82" width="1569" height="1286" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20301244" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20563196" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -406,13 +382,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/02">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -570,6 +539,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/01">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/02">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -584,17 +560,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/01">
+    <entry file="file://$PROJECT_DIR$/system/01">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="8" />
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/system/01">
+    <entry file="file://$PROJECT_DIR$/system/02">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>

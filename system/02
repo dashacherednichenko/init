@@ -1,1 +1,4 @@
 # Task 2
+# What command can you use to rename your system?
+
+hostname new-name
