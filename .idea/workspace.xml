@@ -2,11 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34c6b55-2a25-432f-b934-d2ee52f060b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/network/08" beforeDir="false" afterPath="$PROJECT_DIR$/network/08" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/09" beforeDir="false" afterPath="$PROJECT_DIR$/network/09" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/13" beforeDir="false" afterPath="$PROJECT_DIR$/network/13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/14" beforeDir="false" afterPath="$PROJECT_DIR$/network/14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network/15" beforeDir="false" afterPath="$PROJECT_DIR$/network/15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/01" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/02" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/03" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/01" beforeDir="false" afterPath="$PROJECT_DIR$/system/01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/02" beforeDir="false" afterPath="$PROJECT_DIR$/system/02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/03" beforeDir="false" afterPath="$PROJECT_DIR$/system/03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/04" beforeDir="false" afterPath="$PROJECT_DIR$/system/04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/05" beforeDir="false" afterPath="$PROJECT_DIR$/system/05" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/06" beforeDir="false" afterPath="$PROJECT_DIR$/system/06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/07" beforeDir="false" afterPath="$PROJECT_DIR$/system/07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/08" beforeDir="false" afterPath="$PROJECT_DIR$/system/08" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/09" beforeDir="false" afterPath="$PROJECT_DIR$/system/09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/10" beforeDir="false" afterPath="$PROJECT_DIR$/system/10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/11" beforeDir="false" afterPath="$PROJECT_DIR$/system/11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/12" beforeDir="false" afterPath="$PROJECT_DIR$/system/12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/13" beforeDir="false" afterPath="$PROJECT_DIR$/system/13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/14" beforeDir="false" afterPath="$PROJECT_DIR$/system/14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/15" beforeDir="false" afterPath="$PROJECT_DIR$/system/15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/16" beforeDir="false" afterPath="$PROJECT_DIR$/system/16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/17" beforeDir="false" afterPath="$PROJECT_DIR$/system/17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/18" beforeDir="false" afterPath="$PROJECT_DIR$/system/18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/19" beforeDir="false" afterPath="$PROJECT_DIR$/system/19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/20" beforeDir="false" afterPath="$PROJECT_DIR$/system/20" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/21" beforeDir="false" afterPath="$PROJECT_DIR$/system/21" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/22" beforeDir="false" afterPath="$PROJECT_DIR$/system/22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/23" beforeDir="false" afterPath="$PROJECT_DIR$/system/23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/24" beforeDir="false" afterPath="$PROJECT_DIR$/system/24" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,91 +40,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/01">
+        <entry file="file://$PROJECT_DIR$/system/19">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="25" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/09">
+        <entry file="file://$PROJECT_DIR$/system/20">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/04">
+        <entry file="file://$PROJECT_DIR$/system/21">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="80" />
+            <state>
+              <caret selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/02">
+        <entry file="file://$PROJECT_DIR$/system/22">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/05">
+        <entry file="file://$PROJECT_DIR$/system/23">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state>
+              <caret selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/12">
+        <entry file="file://$PROJECT_DIR$/system/24">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/13">
+        <entry file="file://$PROJECT_DIR$/scripts/01">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state>
+              <caret selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/14">
+        <entry file="file://$PROJECT_DIR$/scripts/02">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/03">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/network/15">
+        <entry file="file://$PROJECT_DIR$/system/01">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/network/03">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="15">
+              <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -128,6 +151,33 @@
         <option value="$PROJECT_DIR$/network/13" />
         <option value="$PROJECT_DIR$/network/14" />
         <option value="$PROJECT_DIR$/network/15" />
+        <option value="$PROJECT_DIR$/system/01" />
+        <option value="$PROJECT_DIR$/system/02" />
+        <option value="$PROJECT_DIR$/system/03" />
+        <option value="$PROJECT_DIR$/system/04" />
+        <option value="$PROJECT_DIR$/system/05" />
+        <option value="$PROJECT_DIR$/system/06" />
+        <option value="$PROJECT_DIR$/system/07" />
+        <option value="$PROJECT_DIR$/system/08" />
+        <option value="$PROJECT_DIR$/system/09" />
+        <option value="$PROJECT_DIR$/system/10" />
+        <option value="$PROJECT_DIR$/system/11" />
+        <option value="$PROJECT_DIR$/system/12" />
+        <option value="$PROJECT_DIR$/system/13" />
+        <option value="$PROJECT_DIR$/system/14" />
+        <option value="$PROJECT_DIR$/system/15" />
+        <option value="$PROJECT_DIR$/system/16" />
+        <option value="$PROJECT_DIR$/system/17" />
+        <option value="$PROJECT_DIR$/system/18" />
+        <option value="$PROJECT_DIR$/system/19" />
+        <option value="$PROJECT_DIR$/system/20" />
+        <option value="$PROJECT_DIR$/system/21" />
+        <option value="$PROJECT_DIR$/system/22" />
+        <option value="$PROJECT_DIR$/system/23" />
+        <option value="$PROJECT_DIR$/system/24" />
+        <option value="$PROJECT_DIR$/scripts/01" />
+        <option value="$PROJECT_DIR$/scripts/02" />
+        <option value="$PROJECT_DIR$/scripts/03" />
       </list>
     </option>
   </component>
@@ -142,8 +192,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="334" />
-    <option name="y" value="73" />
+    <option name="x" value="222" />
+    <option name="y" value="82" />
     <option name="width" value="1569" />
     <option name="height" value="1286" />
   </component>
@@ -152,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,12 +217,18 @@
             <path>
               <item name="init" type="b2602c69:ProjectViewProjectNode" />
               <item name="init" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
               <item name="system" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,18 +268,18 @@
       <updated>1570528959331</updated>
       <workItem from="1570528960512" duration="3264000" />
       <workItem from="1570537167684" duration="5589000" />
-      <workItem from="1570698880678" duration="3194000" />
+      <workItem from="1570698880678" duration="4470000" />
+      <workItem from="1571648329677" duration="2606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12047000" />
+    <option name="totallyTimeSpent" value="15929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="334" y="73" width="1569" height="1286" extended-state="0" />
-    <editor active="true" />
+    <frame x="222" y="82" width="1569" height="1286" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20039293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20301244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,45 +304,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/system/12">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/18">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/01">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/02">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/04">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/05">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/06">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/07">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/08">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/09">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/10">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/16">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/17">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/network/06">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -347,7 +363,7 @@
     <entry file="file://$PROJECT_DIR$/network/03">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -368,14 +384,14 @@
     <entry file="file://$PROJECT_DIR$/network/12">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/network/13">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -389,7 +405,196 @@
     <entry file="file://$PROJECT_DIR$/network/15">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/02">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/03">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/04">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/05">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/06">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/07">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/08">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/09">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/10">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/11">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/12">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/13">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/14">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/15">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/17">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/18">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/19">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/20">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/21">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/22">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/23">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/24">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/02">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/03">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/01">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/01">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="65" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
         </state>
       </provider>
     </entry>
