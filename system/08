@@ -1,7 +1,6 @@
 # Task 8
 # What file contains the RSA keys of systems that are authorized to connect via SSH?
 
-cat ~/.ssh/id_rsa
+cat ~/.ssh/authorized_keys
 
-# cat ~/.ssh/id_rsa.pub
-# відкритий ключ
+# but first user must generate keys
